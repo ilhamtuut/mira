@@ -1,0 +1,10 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 412.8 419.6" xml:space="preserve">
+  <style>
+    .lion1,.lion2{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.lion1{stroke-width:2;stroke:#ee5586}.lion2{stroke:gray}
+  </style>
+  <path id="svg-concept" d="M205.2 415.3s143-60.8 156.4-189.8c12.5 16.1 18.8 48.4 18.8 48.4s52.2-101.7-9.2-176.2c21.6 4.7 35.1 17.3 35.1 17.3S376 13.3 261.1 32C273.4 11.2 293 4.8 293 4.8s-44.1-6-87.6 42.6l-.7.8C161.2-.3 116.4 4.8 116.4 4.8S136 11.2 148.2 32C33.4 13.3 3 115 3 115s13.6-12.7 35.1-17.3c-61.4 74.5-9.2 176.2-9.2 176.2s6.3-32.3 18.8-48.4c13.4 129 157 189.9 157 189.9l.5-.1z" fill="none" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+  <path id="svg-concept" class="lion1" d="M173.1 307.9l31.6 26.8 33.8-26.8-33.8-14.4z"/>
+  <path class="lion2" d="M249.6 96.9c12.9-15.4 54-25.3 53.5-13.4s-16.3 36.7-16.3 36.7l43.1 38.1-60.4 75.8 4 53-26.3 12.9-42.5-19.2-42.5 19.2-26.2-12.9 4-53-60.4-75.8 43.1-38.1s-15.9-24.8-16.3-36.7 40.6-2 53.5 13.4l45-20.8 44.7 20.8zM204.7 260.2v20.5"/>
+  <path id="svg-concept" class="lion1" d="M181.6 238.8l23.1 15 24.3-15z"/>
+  <path class="lion2" d="M181.6 167.8l-8.5 40.4-2.2-32.4-11.4 5.2-20.8-23.9zM229 167.8l8.5 40.4 2.2-32.4L251 181l20.8-23.9zM130.5 113.7l19.6-11c-16.6-12.3-32.8-15.6-19.6 11zM279.2 113.7l-19.6-11c16.6-12.3 32.8-15.6 19.6 11z"/>
+</svg>

@@ -1,0 +1,63 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 438.8 435.8" xml:space="preserve">
+  <style>
+    .pvisitors0,.pvisitors1{stroke-linecap:round;stroke-linejoin:round}.pvisitors0{stroke-miterlimit:10;fill:#fff;stroke:gray}.pvisitors1{fill:none;stroke:#ee5586}.pvisitors5,.pvisitors6,.pvisitors7,.pvisitors8,.pvisitors9{fill:none;stroke:gray;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.pvisitors6,.pvisitors7,.pvisitors8,.pvisitors9{fill:#fff;stroke:#ee5586}.pvisitors7,.pvisitors8,.pvisitors9{fill:none}.pvisitors8,.pvisitors9{fill:#fff;stroke-width:2}.pvisitors9{fill:none}
+  </style>
+  <path class="pvisitors0" d="M433.1 257H5.6c0-118.1 95.7-213.8 213.8-213.8 118 0 213.7 95.7 213.7 213.8z"/>
+  <path id="svg-concept" class="pvisitors1" d="M219.4 67.1v2.5"/>
+  <path id="svg-concept" fill="none" stroke="#ee5586" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.6495,4.6495" d="M219.4 74.2v34.9"/>
+  <path id="svg-concept" class="pvisitors1" d="M219.4 111.4v2.5M86.3 123.6l1.8 1.8"/>
+  <path id="svg-concept" fill="none" stroke="#ee5586" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.9688,4.9688" d="M91.6 128.9l54.4 54.5"/>
+  <path id="svg-concept" class="pvisitors1" d="M147.8 185.1l1.8 1.8"/>
+  <g>
+    <path id="svg-concept" class="pvisitors1" d="M364.1 113.4l-1.8 1.8"/>
+    <path id="svg-concept" fill="none" stroke="#ee5586" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.7568,4.7568" d="M359 118.5l-65.6 65.6"/>
+    <path id="svg-concept" class="pvisitors1" d="M291.7 185.8l-1.8 1.8"/>
+  </g>
+  <g>
+    <path class="pvisitors0" d="M44 70.2h67v53.6H44z"/>
+    <path class="pvisitors5" d="M44 83.6h67M56 77.4c0 1.2-1 2.2-2.2 2.2-1.2 0-2.2-1-2.2-2.2 0-1.2 1-2.2 2.2-2.2 1.2 0 2.2 1 2.2 2.2z"/>
+    <circle class="pvisitors5" cx="64.3" cy="77.4" r="2.2"/>
+    <circle class="pvisitors5" cx="74.9" cy="77.4" r="2.2"/>
+    <path id="svg-concept" class="pvisitors6" d="M77.5 117.1c4.9 0 8.9-4 8.9-8.9s-4-8.9-8.9-8.9-8.9 4-8.9 8.9 4 8.9 8.9 8.9z"/>
+    <path id="svg-concept" class="pvisitors7" d="M77.5 106.7v4.4M72.9 97.1v-2.9c0-1.6 1.3-2.9 3-2.9h3.3c1.6 0 3 1.3 3 2.9v2.9"/>
+  </g>
+  <g>
+    <path class="pvisitors0" d="M345.5 72h53.3v42.6h-53.3z"/>
+    <path id="svg-concept" class="pvisitors7" d="M355.7 99.4l9.9-8.2 9.8 9.9 13.2-13.2"/>
+    <path id="svg-concept" class="pvisitors7" d="M380.4 87.9h8.2v8.2"/>
+    <path class="pvisitors5" d="M372.2 117.2v6.2M360.6 129.1l11.6-6 11.5 6"/>
+  </g>
+  <g>
+    <path class="pvisitors0" d="M193.1 4.8h58v46.4h-58z"/>
+    <path id="svg-concept" class="pvisitors6" d="M185 12.9h58v46.4h-58z"/>
+    <path id="svg-concept" class="pvisitors7" d="M185 24.5h58"/>
+    <path class="pvisitors5" d="M195.4 18.9c0 1.1-.9 1.9-1.9 1.9-1.1 0-1.9-.9-1.9-1.9 0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9z"/>
+    <circle class="pvisitors5" cx="202.6" cy="18.9" r="1.9"/>
+    <circle class="pvisitors5" cx="211.7" cy="18.9" r="1.9"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="pvisitors8" d="M157.6 190.8c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 -60 -60 0" begin="0s" dur="1s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="pvisitors8" d="M223.4 118.9c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0, 0 0 -50" begin="1.5s" dur="1s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="pvisitors8" d="M289.4 191.9c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 70 -70" begin="1.5s" dur="1s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path class="pvisitors0" d="M238.3 113.9l-3.4 18.1c26.2 6.6 47.5 29.8 56 60.2h9.4l-5.5 34.4-10.1 3.1v1.4c-1.7 46.1-30.3 82.7-65.3 82.7s-63.6-36.6-65.3-82.7v-1.4l-10.2-3.2-5.4-34.4h9.4c8.5-30.3 29.7-53.5 55.9-60.2l-3.3-18.1h37.8zM219.4 130.1v-16.2M219.4 312v-43.1"/>
+    <path id="svg-concept" class="pvisitors9" d="M219.4 249.9v-57.7M219.4 249.9l-75.5-23.3M219.4 249.9l75.4-23.3M138.5 192.2h161.8M138.5 192.2l5.4 34.4M300.3 192.2l-5.5 34.4M273.9 192.2v27M165 192.2v27M245.2 192.2V230M194.2 192.2V230"/>
+    <path class="pvisitors0" d="M200.5 113.9h37.8M208.6 157.8h21.6M203.8 132l4.8 25.8M234.9 132l-4.7 25.8"/>
+    <g>
+      <path class="pvisitors0" d="M309.8 359.1V392H129v-32.9c0-18.2 14.7-32.9 32.9-32.9h115c18.2 0 32.9 14.8 32.9 32.9z"/>
+      <path class="pvisitors5" d="M129 359.1l32.9-32.9M276.9 326.2l32.9 32.9"/>
+      <path id="svg-concept" class="pvisitors6" d="M127.5 296.1c17.6 18 59.9 17.6 59.9 17.6v58.6c0 32.4-60 58.6-60 58.6s-56.9-26.2-56.9-58.6v-58.6s39.4.4 57-17.6"/>
+      <path class="pvisitors5" d="M127.6 315.7c14.1 14.5 44 14.1 44 14.1l.1 39.5c0 23.5-44.4 42.2-44.4 42.2s-41.6-18.8-41.6-42.2l-.1-39.5c.1 0 27.9.3 42-14.1M103.4 339.1l-3.9 3.9M119 339.1l-21.5 21.5"/>
+      <path class="pvisitors0" d="M319 99.1h-18.7V84.5l9.5-51.1 9.2 51.1z"/>
+      <path class="pvisitors5" d="M309.8 88.1V392"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 611.6 522.7" xml:space="preserve">
+  <style>
+    .iptvdevices0{stroke-width:2}.iptvdevices0,.iptvdevices1,.iptvdevices3,.iptvdevices4{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.iptvdevices3,.iptvdevices4{stroke:gray;stroke-width:2}.iptvdevices4{stroke-width:4}
+  </style>
+  <path class="iptvdevices0" d="M143.3 83.9c0-.3.2-.5.5-.5H224c.3 0 .5.2.5.5v1.6s0 2-4.1 2h-73c-4.1 0-4.1-2-4.1-2v-1.6zM215.7 83.3V41.5c0-1.2-.9-2.1-2.1-2.1h-58.8c-1.2 0-2.1 1-2.1 2.1v41.8h63z"/>
+  <path id="svg-concept" class="iptvdevices0" d="M159.4 46.5h49.2v31.8h-49.2z"/>
+  <path class="iptvdevices0" d="M118.6 203.1H69.5c-2.9 0-5.3 2.4-5.3 5.3v91.3c0 2.9 2.4 5.3 5.3 5.3h49.1c2.9 0 5.3-2.4 5.3-5.3v-91.3c-.1-2.9-2.4-5.3-5.3-5.3z"/>
+  <path class="iptvdevices0" d="M72.4 213.6h43.2v73.7H72.4z"/>
+  <path class="iptvdevices1" d="M86.6 224.4l-3.2 3.2M99.4 224.4l-17.6 17.5"/>
+  <path id="svg-concept" d="M317.6 308.2c-11.6 6.7-22.9.9-22.9-12.5v-78.2c0-13.4 11.4-19.2 23-12.5l67.9 39.4c11.6 6.7 11.6 17.7 0 24.4l-68 39.4z" fill="none" stroke="#ee5586" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+  <path class="iptvdevices3" d="M231.5 32.8C265.4 15.7 303.8 6 344.4 6c37.7 0 73.4 8.3 105.4 23.3M107.4 175.5c8.1-23.8 19.8-46.1 34.3-66.1M148.8 413c-17.6-22-31.6-47-41-74.2M476.4 469.7c-38.3 23.8-83.4 37.5-131.8 37.5-36.6 0-71.4-7.8-102.7-22"/>
+  <path class="iptvdevices0" d="M157.8 462.7h67.9"/>
+  <path class="iptvdevices3" d="M191.8 478.6v9.6"/>
+  <path class="iptvdevices0" d="M206.9 488.2h-30.2M157.1 425.7h69.2v52.9h-69.2z"/>
+  <g>
+    <path id="svg-concept" class="iptvdevices4" d="M490.8 53.2C553.9 98.6 595 172.8 595 256.6c0 68.6-27.6 130.7-72.3 176.1"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="1s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="iptvdevices4" d="M438.7 102.6c55.7 30.3 93.6 89.3 93.6 157.2 0 51.8-22 98.3-57.2 131"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="2s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="iptvdevices4" d="M405.5 149.8c37.3 22.5 62.1 63.3 62.1 110 0 39.8-18.2 75.5-46.6 99.1"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="3s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <circle id="svg-concept" cx="94" cy="256.6" r="82.2" fill="none" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+  <circle class="iptvdevices0" cx="183.1" cy="66.9" r="59.2"/>
+  <circle class="iptvdevices0" cx="191.8" cy="453.7" r="59.2"/>
+</svg>

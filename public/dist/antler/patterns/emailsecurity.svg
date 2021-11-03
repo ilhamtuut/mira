@@ -1,0 +1,50 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1105.7 406" xml:space="preserve">
+  <style>
+    .emailsecurity0{fill:none;stroke:gray;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.emailsecurity1{fill:#fff}.emailsecurity2,.emailsecurity3{fill:none;stroke:#ee5586;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.emailsecurity3{stroke-dasharray:12.0166,12.0166}.emailsecurity4{stroke-width:2}.emailsecurity4,.emailsecurity5{fill:#fff;stroke:gray;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+  </style>
+  <path class="emailsecurity0" d="M.1 265.1h1105.5"/>
+  <path class="emailsecurity1" d="M.1 274.3h1105.5"/>
+  <g>
+    <path id="svg-concept" class="emailsecurity2" d="M.1 274.3h6"/>
+    <path id="svg-concept" class="emailsecurity3" d="M18.1 274.3h1075.5"/>
+    <path id="svg-concept" class="emailsecurity2" d="M1099.6 274.3h6"/>
+    <animateMotion path="M0, 0 20 0 0 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <path class="emailsecurity0" d="M.1 324.3h1105.5"/>
+  <g>
+    <path class="emailsecurity1" d="M.1 314h1105.5"/>
+    <path id="svg-concept" class="emailsecurity2" d="M.1 314h6"/>
+    <path id="svg-concept" class="emailsecurity3" d="M18.1 314h1075.5"/>
+    <path id="svg-concept" class="emailsecurity2" d="M1099.6 314h6"/>
+    <animateMotion path="M0, 0 -20 0 0 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path class="emailsecurity4" d="M40.6 131.3c0-4.6 3.7-8.3 8.4-8.3h158.9c4.6 0 8.3 3.8 8.3 8.3v104.6c0 4.6-3.7 8.3-8.3 8.3H49c-4.6 0-8.4-3.8-8.4-8.3V131.3z"/>
+    <path class="emailsecurity0" d="M207.9 122.9l-79.5 58.6L49 122.9M103.3 164.7L44.8 240M153.5 164.7L212 240"/>
+    <path class="emailsecurity5" d="M245.3 255.7H15.8c-1.7 0-3-1.4-3-3l-5-38.5c0-1.6 1.3-3 3-3h239.5c1.6 0 3 1.4 3 3l-5 38.5c0 1.7-1.4 3-3 3z"/>
+    <g>
+      <path class="emailsecurity4" d="M463 131.3c0-4.6 3.7-8.3 8.4-8.3h158.9c4.6 0 8.3 3.8 8.3 8.3v104.6c0 4.6-3.7 8.3-8.3 8.3h-159c-4.6 0-8.4-3.8-8.4-8.3V131.3z"/>
+      <path class="emailsecurity0" d="M630.2 122.9l-79.5 58.6-79.4-58.6M525.7 164.7L467.1 240M575.8 164.7l58.6 75.3"/>
+      <path class="emailsecurity5" d="M667.6 255.7H438.1c-1.6 0-3-1.4-3-3l-5-38.5c0-1.6 1.4-3 3-3h239.5c1.6 0 3 1.4 3 3l-5 38.5c0 1.7-1.3 3-3 3z"/>
+    </g>
+    <g>
+      <path class="emailsecurity4" d="M885.3 131.3c0-4.6 3.7-8.3 8.4-8.3h158.9c4.6 0 8.3 3.8 8.3 8.3v104.6c0 4.6-3.7 8.3-8.3 8.3h-159c-4.6 0-8.4-3.8-8.4-8.3V131.3z"/>
+      <path class="emailsecurity0" d="M1052.5 122.9l-79.4 58.6-79.5-58.6M948 164.7L889.5 240M998.2 164.7l58.5 75.3"/>
+      <path class="emailsecurity5" d="M1089.9 255.7H860.4c-1.7 0-3-1.4-3-3l-5-38.5c0-1.6 1.3-3 3-3h239.5c1.7 0 3 1.4 3 3l-5 38.5c0 1.7-1.3 3-3 3z"/>
+    </g>
+    <animateMotion path="M0, 0 1440 0" begin="0s" dur="5s" fill="freeze"/>
+    <animateMotion path="M-1000, 0 1440 0" begin="6s" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path d="M756.4 394.2H349.3c-10.9 0-19.9-9-19.9-19.9V29c0-10.9 9-19.9 19.9-19.9h407.1c10.9 0 19.9 9 19.9 19.9v345.3c0 10.9-8.9 19.9-19.9 19.9z" fill="#fff" fill-opacity=".75" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path class="emailsecurity5" d="M366.5 54c-4-1.1-6.3-5.1-5.3-9.1 1.1-4 5.1-6.3 9.1-5.3s6.3 5.1 5.3 9.1c-1.1 4-5.2 6.3-9.1 5.3z"/>
+    <path class="emailsecurity5" d="M367.7 49.5c-1.5-.4-2.4-1.9-2-3.4.4-1.5 1.9-2.3 3.4-2 1.5.4 2.3 1.9 2 3.4-.4 1.5-1.9 2.4-3.4 2zM366.5 54l1.2-4.5M369.1 44.1l1.2-4.5M366.5 363.4c-4-1.1-6.3-5.1-5.3-9.1 1.1-4 5.1-6.3 9.1-5.3s6.3 5.1 5.3 9.1c-1.1 4-5.2 6.3-9.1 5.3z"/>
+    <path class="emailsecurity5" d="M367.7 358.9c-1.5-.4-2.4-1.9-2-3.4.4-1.5 1.9-2.3 3.4-2 1.5.4 2.3 1.9 2 3.4-.4 1.5-1.9 2.3-3.4 2zM366.5 363.4l1.2-4.6M369.1 353.5l1.2-4.5M734.3 54c-4-1.1-6.3-5.1-5.3-9.1 1.1-4 5.1-6.3 9.1-5.3 4 1.1 6.3 5.1 5.3 9.1-1.1 4-5.1 6.3-9.1 5.3z"/>
+    <path class="emailsecurity5" d="M735.5 49.5c-1.5-.4-2.4-1.9-2-3.4.4-1.5 1.9-2.3 3.4-2 1.5.4 2.3 1.9 2 3.4-.4 1.5-1.9 2.4-3.4 2zM734.3 54l1.2-4.5M736.9 44.1l1.2-4.5M734.3 363.4c-4-1.1-6.3-5.1-5.3-9.1 1.1-4 5.1-6.3 9.1-5.3 4 1.1 6.3 5.1 5.3 9.1-1.1 4-5.1 6.3-9.1 5.3z"/>
+    <path class="emailsecurity5" d="M735.5 358.9c-1.5-.4-2.4-1.9-2-3.4.4-1.5 1.9-2.3 3.4-2 1.5.4 2.3 1.9 2 3.4-.4 1.5-1.9 2.3-3.4 2zM734.3 363.4l1.2-4.6M736.9 353.5l1.2-4.5"/>
+  </g>
+  <g>
+    <path id="svg-concept" fill="#fff" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M401.1 83.3h303.5"/>
+    <animateMotion path="M0, 250 0 0 0 250" begin="0s" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>

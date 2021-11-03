@@ -1,0 +1,34 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1100.6 522.7" xml:space="preserve">
+  <style>
+    .devices0{stroke:gray;stroke-width:2}.devices0,.devices1,.devices2,.devices3{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.devices1{stroke-width:2;stroke:#ee5586}.devices2,.devices3{stroke:gray}.devices3{stroke:#ee5586;stroke-width:4}
+  </style>
+  <path class="devices0" d="M807.5 83.9c0-.3.2-.5.5-.5h80.2c.3 0 .5.2.5.5v1.6s0 2-4.1 2h-73c-4.1 0-4.1-2-4.1-2v-1.6zM879.9 83.3V41.5c0-1.2-.9-2.1-2.1-2.1H819c-1.2 0-2.1 1-2.1 2.1v41.8h63z"/>
+  <path id="svg-concept" class="devices1" d="M823.6 46.5h49.2v31.8h-49.2z"/>
+  <path class="devices0" d="M1037.8 203.1h-49.1c-2.9 0-5.3 2.4-5.3 5.3v91.3c0 2.9 2.4 5.3 5.3 5.3h49.1c2.9 0 5.3-2.4 5.3-5.3v-91.3c-.1-2.9-2.4-5.3-5.3-5.3z"/>
+  <path id="svg-concept" class="devices0" d="M991.6 213.6h43.2v73.7h-43.2z"/>
+  <path class="devices2" d="M1005.8 224.4l-3.2 3.2M1018.6 224.4l-17.6 17.5"/>
+  <path id="svg-concept" class="devices3" d="M228.8 308.2c-11.6 6.7-22.9.9-22.9-12.5v-78.2c0-13.4 11.4-19.2 23-12.5l67.9 39.4c11.6 6.7 11.6 17.7 0 24.4l-68 39.4z"/>
+  <circle id="svg-concept" class="devices3" cx="1013.2" cy="256.6" r="82.2"/>
+  <circle class="devices0" cx="847.3" cy="66.9" r="59.2"/>
+  <circle class="devices0" cx="847.3" cy="453.7" r="59.2"/>
+  <path id="svg-concept" fill="none" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M525.5 256.6H931"/>
+  <path class="devices0" d="M387.6 469.7c-38.3 23.8-83.4 37.5-131.8 37.5C117.4 507.2 5.2 395 5.2 256.6S117.3 6 255.6 6C293.3 6 329 14.3 361 29.3M813.3 462.7h67.9M847.3 478.6v9.6M862.4 488.2h-30.2"/>
+  <path id="svg-concept" class="devices1" d="M812.6 425.7h69.2v52.9h-69.2z"/>
+  <path class="devices0" d="M847.3 126.1S802.5 257 525.6 257M525.5 257c287.1-.4 321.7 137.5 321.7 137.5"/>
+  <g>
+    <path id="svg-concept" class="devices0" d="M402 53.2c63.1 45.4 104.2 119.6 104.2 203.4 0 68.6-27.6 130.7-72.3 176.1"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="1s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="devices0" d="M349.9 102.6c55.7 30.3 93.6 89.3 93.6 157.2 0 51.8-22 98.3-57.2 131"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="2s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="devices0" d="M316.7 149.8c37.3 22.5 62.1 63.3 62.1 110 0 39.8-18.2 75.5-46.6 99.1"/>
+    <animate accumulate="none" additive="replace" attributeName="opacity" begin="3s" calcMode="linear" dur="2s" fill="remove" repeatCount="indefinite" restart="always" values="0;3;0"/>
+  </g>
+  <g>
+    <path id="svg-concept" d="M540.8 257c0 4.2-3.3 7.6-7.6 7.6-4.2 0-7.6-3.3-7.6-7.6s3.3-7.6 7.6-7.6c4.2 0 7.6 3.3 7.6 7.6z" fill="#fff" stroke="#ee5586" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <animateMotion accumulate="none" additive="replace" begin="0s" calcMode="paced" dur="5s" fill="remove" path="M0, 0 390 0 0 0" repeatCount="indefinite" restart="always"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 631.3 460.5" xml:space="preserve">
+  <style>
+    .support1,.support2,.support3,.support4{stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.support1{stroke:gray;fill:#fff}.support2,.support3,.support4{fill:none}.support2{stroke-width:2;stroke:#ee5586}.support3,.support4{stroke:gray}.support4{stroke:#ee5586}
+  </style>
+  <path id="svg-concept" d="M569.1 81.3C499.3.7 380-21.7 284.3 33.6c-108.4 62.7-145.5 201.3-82.8 309.8s201.3 145.5 309.8 82.8c108.4-62.7 145.5-201.3 82.8-309.8" fill="#fff" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+  <path class="support1" d="M532.1 334.9l44.8 34.9"/>
+  <path id="svg-concept" class="support2" d="M170.9 237.3v-4.7M171 227.1v-4.7"/>
+  <g>
+    <path class="support3" d="M229 251.1c2.7 21.9 9.8 43.6 21.5 63.8 47 81.3 151 109.1 232.3 62.1 81.3-47 109.1-151 62.1-232.3-46.9-81.2-150.9-109-232.2-62-47.9 27.7-77.2 75.1-83.6 126M397.7 59.8v56.7"/>
+    <path class="support1" d="M390.3 60c0-4.1 3.3-7.5 7.4-7.5 4.1 0 7.4 3.3 7.5 7.4 0 4.1-3.3 7.4-7.4 7.4-4.2.1-7.5-3.2-7.5-7.3z"/>
+    <path class="support3" d="M395 59.9c0-1.5 1.2-2.8 2.8-2.8 1.5 0 2.8 1.2 2.8 2.8s-1.2 2.8-2.8 2.8c-1.6 0-2.8-1.2-2.8-2.8zM390.3 59.9h4.7M400.5 59.9h4.7"/>
+    <g>
+      <path class="support1" d="M527.2 340.2c-3.2-2.5-3.8-7.2-1.3-10.5 2.5-3.2 7.2-3.8 10.5-1.3 3.2 2.5 3.8 7.2 1.3 10.4-2.6 3.3-7.3 3.9-10.5 1.4z"/>
+      <path class="support1" d="M530 336.5c-1.2-.9-1.4-2.7-.5-3.9.9-1.2 2.7-1.4 3.9-.5s1.4 2.7.5 3.9c-.9 1.2-2.7 1.4-3.9.5zM527.2 340.2l2.8-3.7M533.4 332.1l2.9-3.7"/>
+    </g>
+    <animateTransform attributeName="transform" type="rotate" dur="10s" from="0 397 229" to="-360 397 230" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path class="support3" d="M509.1 208.6c-2.3-12.2-6.7-24.1-13.2-35.5-31.3-54.2-100.7-72.8-154.9-41.4-54.2 31.3-72.8 100.7-41.4 154.9s100.7 72.8 154.9 41.4c29.7-17.1 48.7-45.7 54.6-76.9"/>
+    <path class="support1" d="M428.9 191.3l45.2-45.2M348.1 229.9h-63.7M479.4 151.3c-2.8 3-7.5 3.3-10.5.5s-3.3-7.5-.5-10.5 7.5-3.3 10.5-.5 3.2 7.5.5 10.5z"/>
+    <path class="support1" d="M475.9 148.2c-1 1.1-2.8 1.2-3.9.2s-1.2-2.8-.2-3.9 2.8-1.2 3.9-.2 1.2 2.7.2 3.9zM479.4 151.3l-3.5-3.1M471.8 144.4l-3.5-3.1"/>
+    <g>
+      <path class="support1" d="M284.6 237.3c-4.1 0-7.5-3.3-7.5-7.4 0-4.1 3.3-7.5 7.4-7.5 4.1 0 7.4 3.3 7.5 7.4.1 4.2-3.2 7.5-7.4 7.5z"/>
+      <path class="support1" d="M284.6 232.6c-1.5 0-2.8-1.2-2.8-2.8 0-1.5 1.2-2.8 2.8-2.8s2.8 1.2 2.8 2.7c0 1.7-1.3 2.9-2.8 2.9zM284.6 237.3v-4.7M284.6 227.1v-4.7"/>
+    </g>
+    <animateTransform attributeName="transform" type="rotate" dur="15s" from="0 397 229" to="360 397 230" repeatCount="indefinite"/>
+  </g>
+  <path class="support1" d="M137.8 78s0 3.3-.4 4.4c-1.7 8.4-8.8 13.8-17.3 13.8-9.8 0-17.7-7.2-17.7-18.4l.5-.4c.5-.4.3-.6.3-1.2V65.5c0-1.2-1.1-2.3-2.3-2.3h-1.4c0-11.4 9.3-21.3 20.7-21.3 11.1 0 20.7 9.3 20.7 21.3l-1 .1h-.9c-1.2 0-2.3 1.1-2.3 2.3v10.6c0 .5.1.9.4 1.3l.7.5z"/>
+  <path class="support3" d="M114.8 74.4c0 1.3-1 2.3-2.3 2.3-1.3 0-2.3-1-2.3-2.3 0-1.3 1-2.3 2.3-2.3 1.2.1 2.3 1.1 2.3 2.3zM129.8 74.4c0 1.3-1 2.3-2.3 2.3-1.3 0-2.3-1-2.3-2.3 0-1.3 1-2.3 2.3-2.3 1.3.1 2.3 1.1 2.3 2.3z"/>
+  <circle id="svg-concept" class="support4" cx="124" cy="87.9" r="3"/>
+  <path id="svg-concept" class="support4" d="M127.2 87.8h2.8s8.2-.1 8.2-9.4M103.3 76.2c0 1.2-1.1 2.3-2.3 2.3h-3c-1.2 0-2.3-1.1-2.3-2.3V65.5c0-1.2 1.1-2.3 2.3-2.3h3c1.2 0 2.3 1.1 2.3 2.3v10.7zM144.4 76.1c0 1.2-1.1 2.3-2.3 2.3h-3c-1.2 0-2.3-1.1-2.3-2.3V65.5c0-1.2 1.1-2.3 2.3-2.3h3c1.2 0 2.3 1.1 2.3 2.3v10.6z"/>
+  <path class="support3" d="M103.3 67.2l8.1-9.2c.5-.6 1.4-.6 1.8 0 0 0 8.5 9.9 23.6 9.2"/>
+  <g>
+    <path id="svg-concept" class="support2" d="M150.4 27.7c5.3 0 9.7 4.4 9.7 9.7v102.1c0 5.3-4.4 9.7-9.7 9.7H11.9c-5.3 0-9.7-4.4-9.7-9.7V37.4c0-5.3 4.4-9.7 9.7-9.7h138.5z"/>
+    <path id="svg-concept" class="support4" d="M160.3 58.5h1.8c.5 0 .8.4.8.8v6.1c0 .5-.4.8-.8.8h-1.8M160.3 46.4h1.8c.5 0 .8.4.8.8v6.1c0 .5-.4.8-.8.8h-1.8"/>
+    <path class="support3" d="M58.3 102.1H18.9M82 87.7H18.9M48.8 73.2H18.9M70.4 58.8H18.9M82 44.4H18.9M141.4 132.1H21.9c-1.6 0-3-1.3-3-3v-6.2c0-1.6 1.4-3 3-3h119.5c1.7 0 3 1.4 3 3v6.2c0 1.6-1.3 3-3 3zM170.9 232.6H82M81.2 149.2v83.4"/>
+    <circle id="svg-ico" cx="81.1" cy="232.5" r="4.3" fill="#ee5586"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="support2" d="M418.4 275c1.4-.6 2.8-1.4 4.1-2.1 23.7-13.7 31.8-44 18.1-67.8-13.7-23.7-44-31.8-67.8-18.1-23.7 13.7-31.8 44-18.1 67.8 5.1 8.9 12.6 15.5 21.1 19.7"/>
+    <animateTransform attributeName="transform" type="rotate" dur="12s" from="0 397 229" to="-360 397 230" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" d="M406.9 229.9c0 4.7-3.8 8.5-8.5 8.5s-8.5-3.8-8.5-8.5 3.8-8.5 8.5-8.5 8.5 3.8 8.5 8.5z" fill="#fff" stroke="#ee5586" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <animateMotion path="M0, 0 -15 0 -15 -15 -25 10 0 0" begin="0s" dur="2s" repeatCount="indefinite"/>
+  </g>
+</svg>

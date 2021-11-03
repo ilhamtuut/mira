@@ -1,0 +1,43 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 480.8 419.6" xml:space="preserve">
+  <style>
+    .dbhigh0{fill:#fff;stroke:gray}.dbhigh0,.dbhigh1,.dbhigh2,.dbhigh3,.dbhigh4{stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.dbhigh1{fill:none;stroke:gray}.dbhigh2,.dbhigh3,.dbhigh4{stroke:#ee5586}.dbhigh2{stroke-width:2;fill:#fff}.dbhigh3,.dbhigh4{fill:none}.dbhigh4{fill:#fff;stroke-width:2}
+  </style>
+  <path class="dbhigh0" d="M135.8 121.6l152.5-88.1 152.6 88.1v176.2l-152.6 88-152.5-88z"/>
+  <path class="dbhigh1" d="M315.2 222.4L421.8 284M157.7 131L264 192.8M262.6 224.2l-108.1 60.5M420.7 135.2l-106.9 60.4M288.3 239.8v119.1M440.9 150.1V270M288.3 61.3v119.5"/>
+  <path id="svg-concept" class="dbhigh2" d="M317.8 210.3c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5zM476.5 120.8c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5z"/>
+  <path class="dbhigh0" d="M317.8 31.3c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5S272 1.8 288.3 1.8s29.5 13.2 29.5 29.5zM159.1 120.8c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5zM159.1 298.8c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5zM317.8 388.4c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5z"/>
+  <path id="svg-concept" class="dbhigh2" d="M476.5 298.8c0 16.3-13.2 29.5-29.5 29.5s-29.5-13.2-29.5-29.5 13.2-29.5 29.5-29.5 29.5 13.2 29.5 29.5z"/>
+  <g>
+    <path class="dbhigh0" d="M234.7 311c0 14.5-35.4 26.2-79 26.2s-79-11.7-79-26.2v-52.7c0-14.5 35.4-26.2 79-26.2s79 11.7 79 26.2V311z"/>
+    <path id="svg-concept" class="dbhigh3" d="M206 307.7c0 4-3.3 7.3-7.3 7.3s-7.3-3.3-7.3-7.3 3.3-7.3 7.3-7.3 7.3 3.3 7.3 7.3z"/>
+    <path id="svg-concept" class="dbhigh3" d="M201.4 307.7c0 1.5-1.2 2.7-2.7 2.7-1.5 0-2.7-1.2-2.7-2.7s1.2-2.7 2.7-2.7c1.5 0 2.7 1.2 2.7 2.7zM206 307.7h-4.6M195.9 307.7h-4.5"/>
+    <path class="dbhigh1" d="M234.7 258.3c0 14.5-35.4 26.2-79 26.2s-79-11.7-79-26.2"/>
+    <path id="svg-concept" class="dbhigh3" d="M162 372.7c0 4.5-3.7 8.2-8.2 8.2-4.5 0-8.2-3.7-8.2-8.2 0-4.5 3.6-8.2 8.2-8.2 4.5.1 8.2 3.7 8.2 8.2zM153.8 348.3v16.3M100.1 372.7h45.5M162 372.7h45.5"/>
+  </g>
+  <g>
+    <path class="dbhigh0" d="M162 221.9c0 14.5-35.4 26.2-79 26.2S4 236.4 4 221.9v-52.7C4 154.7 39.4 143 83 143s79 11.7 79 26.2v52.7z"/>
+    <path id="svg-concept" class="dbhigh3" d="M133.2 218.6c0 4-3.3 7.3-7.3 7.3s-7.3-3.3-7.3-7.3 3.3-7.3 7.3-7.3 7.3 3.2 7.3 7.3z"/>
+    <path id="svg-concept" class="dbhigh3" d="M128.6 218.6c0 1.5-1.2 2.7-2.7 2.7-1.5 0-2.7-1.2-2.7-2.7 0-1.5 1.2-2.7 2.7-2.7 1.5 0 2.7 1.2 2.7 2.7zM133.2 218.6h-4.6M123.2 218.6h-4.6"/>
+    <path class="dbhigh1" d="M162 169.2c0 14.5-35.4 26.2-79 26.2S4 183.7 4 169.2"/>
+    <animateMotion path="M0, 0 73 0 73 38 38" begin="0s" dur="3s" fill="freeze"/>
+  </g>
+  <g>
+    <path class="dbhigh0" d="M258.2 137.8c0 14.5-35.4 26.2-79 26.2s-79-11.7-79-26.2V85.1c0-14.5 35.4-26.2 79-26.2s79 11.7 79 26.2v52.7z"/>
+    <path id="svg-concept" class="dbhigh3" d="M229.4 134.5c0 4-3.3 7.3-7.3 7.3s-7.3-3.3-7.3-7.3 3.3-7.3 7.3-7.3 7.3 3.3 7.3 7.3z"/>
+    <path id="svg-concept" class="dbhigh3" d="M224.8 134.5c0 1.5-1.2 2.7-2.7 2.7-1.5 0-2.7-1.2-2.7-2.7 0-1.5 1.2-2.7 2.7-2.7 1.5 0 2.7 1.2 2.7 2.7zM229.4 134.5h-4.6M219.4 134.5h-4.6"/>
+    <path class="dbhigh1" d="M258.2 85.1c0 14.5-35.4 26.2-79 26.2s-79-11.7-79-26.2"/>
+    <animateMotion path="M0, 0 -23 0 -23 71 71" begin="3s" dur="2s" fill="freeze"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="dbhigh4" d="M321 193c0 1.8-1.4 3.2-3.2 3.2-1.8 0-3.2-1.4-3.2-3.2s1.4-3.2 3.2-3.2c1.8 0 3.2 1.4 3.2 3.2z"/>
+    <animateMotion path="M0 0 97 -55 0 0" begin="0s" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="dbhigh4" d="M322.4 224.7c0 1.8-1.4 3.2-3.2 3.2-1.8 0-3.2-1.4-3.2-3.2s1.4-3.2 3.2-3.2c1.7 0 3.2 1.4 3.2 3.2z"/>
+    <animateMotion path="M0 0 97 55 0 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="dbhigh4" d="M444.1 154c0 1.8-1.4 3.2-3.2 3.2-1.8 0-3.2-1.4-3.2-3.2s1.4-3.2 3.2-3.2c1.8 0 3.2 1.4 3.2 3.2z"/>
+    <animateMotion path="M0, 110 0 0 0 110" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+</svg>

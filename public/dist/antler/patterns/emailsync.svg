@@ -1,0 +1,25 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 437.8 437.6" xml:space="preserve">
+  <style>
+    .emails2,.emails4,.emails7{fill:#fff;stroke:gray;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.emails4,.emails7{stroke:#ee5586}.emails7{fill:none;stroke:gray}
+  </style>
+  <circle cx="218.4" cy="217.8" r="215.1" fill="#fff"/>
+  <g>
+    <path id="svg-concept" d="M219.1 3.4C124.1 3.1 37 66.5 11.3 162.7c-30.6 114.5 37.4 232.2 151.9 262.9 114.5 30.6 232.2-37.4 262.9-151.9" fill="none" stroke="#ee5586" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <animateTransform attributeName="transform" type="rotate" dur="5s" from="0 218 220" to="-360 220 218" repeatCount="indefinite"/>
+  </g>
+  <path class="emails2" d="M53.2 284.1c0-1 .8-1.9 1.8-1.9h282.2c1 0 1.8.8 1.8 1.9v5.7s-.2 6.9-14.5 6.9H67.7c-14.3 0-14.5-6.9-14.5-6.9v-5.7zM307.7 282.2V135.1c0-4.2-3.3-7.6-7.4-7.6H93.6c-4.1 0-7.4 3.4-7.4 7.6v147.1h221.5zM339.1 289.8H53.2"/>
+  <path d="M196.1 282.3h-21.8s.3 3.1 3.7 3.1h36.2c3.4 0 3.7-3.1 3.7-3.1h-21.8z" fill="none" stroke="gray" stroke-miterlimit="10"/>
+  <path id="svg-concept" class="emails4" d="M96.1 143.6h200.5v129.6H96.1z"/>
+  <path id="svg-concept" class="emails4" d="M117 151.9c0 .9-.7 1.6-1.6 1.6-.9 0-1.5-.7-1.5-1.6 0-.9.7-1.5 1.5-1.5.9 0 1.6.7 1.6 1.5z"/>
+  <path class="emails2" d="M124.4 151.9c0 .9-.7 1.6-1.6 1.6-.9 0-1.5-.7-1.5-1.6 0-.9.7-1.5 1.5-1.5.9 0 1.6.7 1.6 1.5zM131.7 151.9c0 .9-.7 1.6-1.6 1.6-.9 0-1.5-.7-1.5-1.6 0-.9.7-1.5 1.5-1.5.9 0 1.6.7 1.6 1.5zM96.1 159.2h200.5M355.5 318.1v-99.3c0-5.5-4.4-9.9-9.9-9.9H189.8c-5.5 0-9.9 4.4-9.9 9.9v99.3c0 5.5 4.4 9.9 9.9 9.9h155.8c5.5 0 9.9-4.4 9.9-9.9z"/>
+  <path id="svg-concept" class="emails4" d="M206.9 221.9h135.4V315H206.9z"/>
+  <g>
+    <path d="M208.1 254.3h-45.7c-2.7 0-4.9 2.2-4.9 4.9v84.9c0 2.7 2.2 4.9 4.9 4.9h45.7c2.7 0 4.9-2.2 4.9-4.9v-84.9c0-2.7-2.2-4.9-4.9-4.9z" fill-rule="evenodd" clip-rule="evenodd" fill="#fff" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path id="svg-concept" fill-rule="evenodd" clip-rule="evenodd" fill="#fff" stroke="#ee5586" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M165.1 264.1h40.2v68.6h-40.2z"/>
+    <path class="emails7" d="M178.3 274.1l-2.9 3M190.2 274.1l-16.3 16.3"/>
+  </g>
+  <g>
+    <path class="emails7" d="M218.7 411.1c85.2.1 163.3-56.8 186.3-143.1 27.5-102.9-33.6-208.6-136.5-236.2C165.6 4.3 59.9 65.4 32.3 168.3"/>
+    <animateTransform attributeName="transform" type="rotate" dur="5s" from="0 218 220" to="360 220 218" repeatCount="indefinite"/>
+  </g>
+</svg>
